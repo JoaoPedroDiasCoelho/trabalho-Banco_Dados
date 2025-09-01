@@ -20,7 +20,7 @@ create table dentista(
     id_dentista serial primary key,
     nome_completo varchar(100) not null,
     cpf varchar(11) unique not null,
-    cro varchar(6) unique not null,
+    cro varchar(20) unique not null,
     especialidade varchar(50) not null
 );
 
