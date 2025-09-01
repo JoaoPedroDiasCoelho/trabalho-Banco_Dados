@@ -5,10 +5,10 @@ Este projeto consiste no desenvolvimento de um banco de dados para gerenciamento
 ## Modelos
 
 ### Modelo Conceitual
-![Modelo Conceitual](./imagens/modelo_conceitual.png)
+![Modelo Conceitual](./imagens/Conceitual.png)
 
 ### Modelo Lógico
-![Modelo Lógico](./imagens/modelo_logico.png)
+![Modelo Lógico](./imagens/Logico.png)
 
 ## Script SQL
 O script para criação do banco de dados, inserção de registros e consultas está disponível em [`script.sql`](./script.sql).
